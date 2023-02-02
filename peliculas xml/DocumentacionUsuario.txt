@@ -1,0 +1,6 @@
+En este fichero se comentará los distintos aspectos del programa, 
+Primero la aplicacion consta de dos ficheros php y un fichero html, xml, js y css.
+
+En el html estara la estructura de la pagination
+En el css estará el estilo de la pagina
+Y en los demas el codigo principal
